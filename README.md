@@ -8,8 +8,8 @@ Dept ECE
 University of Alberta
 http://ancl.ece.ualberta.ca/
 
-This Maple code implements the Dynamic Extension Algorithm which contructs a dynamics state feedback which extends the dynamics 
-so that its relative degree is well-defined.
+This Maple code implements the Dynamic Extension Algorithm which contructs a dynamics state feedback that extends the dynamics 
+so that the relative degree of a system is well-defined.
 
 This code has been tested using Maple 2021 and Matlab 2020b and extends the work in [1].
 
